@@ -1,0 +1,18 @@
+/* LoginButton.css */
+.Communaute {
+    padding: 10px 20px;
+    background-color: #515457; /* Couleur de fond bleue */
+    color: white; /* Texte blanc */
+    border: none;
+    border-radius: 5px; /* Bords arrondis */
+    cursor: pointer; /* Curseur en forme de main */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .user-icon {
+    margin-right: 5px;
+    /* Ajoutez ici le style pour votre icône utilisateur */
+  }
+  
